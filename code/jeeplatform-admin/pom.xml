@@ -14,10 +14,10 @@
 
     <properties>
         <shiro.version>1.2.3</shiro.version>
-        <shiro.spring.version>1.2.4</shiro.spring.version>
+        <shiro.spring.version>1.7.1</shiro.spring.version>
         <shiro.encache.version>1.2.4</shiro.encache.version>
         <lucene.version>4.7.2</lucene.version>
-        <poi.version>3.7</poi.version>
+        <poi.version>4.1.1</poi.version>
         <cas.version>3.2.0</cas.version>
         <shiro.cas.version>1.2.4</shiro.cas.version>
     </properties>
@@ -74,7 +74,7 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-            <version>2.2.2</version>
+            <version>2.10.0</version>
         </dependency>
 
         <!-- 对JSP的支持-->
